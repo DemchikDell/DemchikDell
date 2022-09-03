@@ -1,17 +1,19 @@
-<h1 align="center">Hello Everyone👋, My name is Damir</h1>
+<h1 align="center">Hello Everyone👋, My name is Damir 🧙‍♂️</h1>
 
-<h3 align="center">A passionate frontend developer from </h3>
+<h3 align="center">A passionate frontend developer </h3>
+<p>&nbsp;</p>
 
 
 
-- I’m currently learning about how to create **Progressive Web Application** 
-<img src="https://miro.medium.com/max/1024/1*UWpmhI3AEdFY7gjHIZH-2w.png" width="60" height="40"/>
+- 📮 Please, contact me using this email 👉 **damiryamakovjob@gmail.com**
+<p>&nbsp;</p>
 
-- 📫 Please, contact me using this email 👉 **damiryamakovjob@gmail.com**
+- I’m currently learning about how to create **Progressive Web Application** &nbsp; <img src="https://miro.medium.com/max/1024/1*UWpmhI3AEdFY7gjHIZH-2w.png" width="55" height="40"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
+
+<p>&nbsp;</p>
+
 
 <h3 align="left">Frontend 🔥</h3>
 
@@ -56,15 +58,18 @@
 <p>&nbsp;</p>
 
 <h3 align="left">Testing 🃏</h3
-<p align="left"> 
 
-
- 
- 
- 
- 
- 
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
+<p>&nbsp;</p>
+
+
+
+ 
+ 
+ 
+ 
+ 
+
  
 
 
@@ -72,6 +77,6 @@
 
 
 
- </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=demchikdell&label=Profile%20views&color=0e75b6&style=flat" alt="demchikdell" /> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=demchikdell&show_icons=true&locale=en&layout=compact" alt="demchikdell" /></p>
+
