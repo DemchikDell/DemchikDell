@@ -5,15 +5,16 @@
 
 
 
-- 📮 Please, contact me using this email 👉 **damiryamakovjob@gmail.com**
+
+<h2 align="center">I’m currently learning 🧩</h2>
+<p align='center'>
+<img src="https://miro.medium.com/max/1024/1*UWpmhI3AEdFY7gjHIZH-2w.png" width="75" height="60"/> &nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+<img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" width="60" height="60"/> </a>
 <p>&nbsp;</p>
 
-- I’m currently learning about how to create **Progressive Web Application** &nbsp; <img src="https://miro.medium.com/max/1024/1*UWpmhI3AEdFY7gjHIZH-2w.png" width="55" height="40"/>
-
-
-
-<p>&nbsp;</p>
-
+<h2 align="center">This is my Stack 👓👔🩳🧦👟</h2>
+<p align='center'>
 
 <h3 align="left">Frontend 🔥</h3>
 
@@ -62,7 +63,11 @@
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
 <p>&nbsp;</p>
 
-
+<h2 align="center">📮 Please, contact me using this email 👇</h2>
+<p align='center'>
+<a href="mailto:damiryamakovjob@gmail.com" title="GMAIL">
+<img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI" width='60px' height='60px' ></a>
+<p>&nbsp;</p>
 
  
  
