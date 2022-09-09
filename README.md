@@ -1,6 +1,10 @@
-<h1 align="center">Hello Everyone👋, My name is Damir 🧙‍♂️</h1>
+<h1 align="center">Hello Everyone👋, My name is Damir ♂️</h1>
 
-<h3 align="center">A passionate frontend developer </h3>
+<h3 align="center">A passionate Frontend 🏛 Magician 🧙‍ 80 LvL 🍺</h3>
+<p>&nbsp;</p>
+<h3 align="center">Some Facts about Me 👇</h3>
+<h3 align="center">• studied in Germany ✔</h3>
+<h3 align="center">• love cycling🚲 ✔</h3>
 <p>&nbsp;</p>
 
 
