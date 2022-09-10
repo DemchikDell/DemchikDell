@@ -8,7 +8,7 @@
 <h3 align="center">• love cycling🚲 ✔</h3>
 <h3 align="center">• one does not simply 👌 eat an ice cream 🦊 ✔</h3>
 <p align='center'>
-<img src="./P90906-174320.gif" style='height: 600px;'></img>
+<img src="./img/icy.gif" style='height: 400px;'></img>
 </p>
 <p>&nbsp;</p>
 
