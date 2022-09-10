@@ -3,8 +3,13 @@
 <h3 align="center">A passionate Frontend 🏛 Magician 🧙‍ 80 LvL 🍺</h3>
 <p>&nbsp;</p>
 <h3 align="center">Some Facts about Me 👇</h3>
-<h3 align="center">• studied in Germany ✔</h3>
+<h3 align="center">• studied in Germany at &nbsp;<a href="https://www.tum.de/en/" target="_blank" rel="noreferrer">
+<img src="https://upload.wikimedia.org/wikipedia/ru/b/b4/Tum_mitText_blau.jpg" width="50" height="50"/> </a> ✔</h3>
 <h3 align="center">• love cycling🚲 ✔</h3>
+<h3 align="center">• one does not simply 👌 eat an ice cream 🦊 ✔</h3>
+<p align='center'>
+<img src="./P90906-174320.gif" style='height: 600px;'></img>
+</p>
 <p>&nbsp;</p>
 
 
